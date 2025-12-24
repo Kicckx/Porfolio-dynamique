@@ -79,7 +79,7 @@ const Contact = () => {
         {socialLinks.length > 0 && (
           <Card hover={false} className="text-center">
             <h3 className="text-xl font-semibold text-white mb-6">
-              Connect With Me
+              Se connecter avec moi
             </h3>
             <div className="flex flex-wrap items-center justify-center gap-4">
               {socialLinks.map((link) => (

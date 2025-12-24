@@ -11,8 +11,8 @@ const Experience = () => {
   return (
     <Section
       id="experience"
-      title="Work Experience"
-      subtitle="My professional journey"
+      title="Experiences"
+      subtitle=""
       className="bg-[#0F0F10]"
     >
       <div className="max-w-4xl mx-auto">

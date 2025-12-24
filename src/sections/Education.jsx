@@ -12,7 +12,7 @@ const Education = () => {
     <Section
       id="education"
       title="Education"
-      subtitle="My academic background"
+      subtitle=""
       className="bg-[#1A1A1E]"
     >
       <div className="max-w-4xl mx-auto">
@@ -24,7 +24,7 @@ const Education = () => {
           </div>
         ) : (
           <p className="text-center text-gray-400">
-            No education information available yet.
+            Pas d'inforamtion pour le moment.
           </p>
         )}
       </div>

@@ -41,7 +41,6 @@ const Projects = () => {
                 <h3 className="text-2xl font-bold text-white mb-2">
                   D'autres projets
                 </h3>
-                <p className="text-gray-400">More work I've done</p>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {otherProjects.map((project) => (
